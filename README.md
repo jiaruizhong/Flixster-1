@@ -23,10 +23,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 <img src="https://github.com/thualing/Flixster/blob/master/Flix(Portrait.gif" width=250><br>
-<img src="https://github.com/thualing/Flixster/blob/master/Flix(Landscape.gif" width=250><br>
+<img src="https://github.com/thualing/Flixster/blob/master/Flix(Landscape.gif" height=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+
+Challenges while building the app
+When I tried to change default layout to RelativeLayout in activity_main.xml, some unexpected error message showed on my IDE. It took me a long time to figure out the problem, which is the version conflict while updating the app on my simulator.
+
 
 ### Open-source libraries used
 
